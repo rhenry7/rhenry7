@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @rhenry7 (Ramone)
 - 👀 I’m interested in Front End Development!.. and UX/UI Design
-- 🌱 I’m currently learning TypeScript, Gatsby, and Python! 
+- 🌱 I’m currently learning TypeScript, Next, and Redux ToolKit! 
 - 💞️ I’m looking to collaborate on Front End Projects and Full Stack applications! 
 - 📫 How to reach me! Ramoneh94@gmail.com
 
