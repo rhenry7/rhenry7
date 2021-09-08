@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @rhenry7 (Ramone)
+- 👋 Hey, I’m Ramone
 - 👀 I’m interested in Front End Development!.. and UX/UI Design
 - 🌱 I’m currently learning TypeScript, Next, and Redux ToolKit! 
 - 💞️ I’m looking to collaborate on Front End Projects and Full Stack applications! 
