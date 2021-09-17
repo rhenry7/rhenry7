@@ -2,8 +2,6 @@ Hey I'm Ramone, I have exp in JavaScript, TypeScript, NEXT.js and React. I am al
 
 Here are some links to my work: 
 
-www.heyramone.com
-
 www.ramonehenry.com
 
 Feel free to get in touch: 
