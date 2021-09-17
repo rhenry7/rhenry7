@@ -5,3 +5,7 @@ Here are some links to my work:
 www.heyramone.com
 
 www.ramonehenry.com
+
+Feel free to get in touch: 
+
+Ramoneh94@gmail.com
