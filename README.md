@@ -1,10 +1,5 @@
-- 👋 Hey, I’m Ramone
-- 👀 I’m interested in Front End Development!.. and UX/UI Design
-- 🌱 I’m currently learning TypeScript, Next, and Redux ToolKit! 
-- 💞️ I’m looking to collaborate on Front End Projects and Full Stack applications! 
-- 📫 How to reach me! Ramoneh94@gmail.com
+Hey I'm Ramone, I have exp in JavaScript, TypeScript, NEXT.js and React. I am also familiar with Python. With seven years of UX/UI experience I can bring a unique perspective to creative problem-solving for mobile and web applications. I am always interested and eager to learn new technologies and contribute to projects that are innovative and forward-thinking.
 
-<!---
-rhenry7/rhenry7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here are some links to my work: 
+www.heyramone.com
+www.ramonehenry.com
