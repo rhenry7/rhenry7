@@ -3,8 +3,6 @@ Hey I'm Ramone, I have experience with TypeScript, NEXT.js React, Redux and Redu
 Here are some links to my work: 
 
 www.ramonehenry.com
-www.heyramone.com
-
 
 Feel free to get in touch:
 
